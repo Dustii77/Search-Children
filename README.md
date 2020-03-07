@@ -1,9 +1,8 @@
 # Search-Children
 PowerShell function that is basically grep with some bells and whistles.
 
+![search children](Search-Children.jpg)
 
-
-Still needs to highlight all matches when a line contains more than one.
 
 ```ps1
 Function Search-Children($searchTerm) 
@@ -34,3 +33,4 @@ Function Search-Children($searchTerm)
 }
 ```
 
+Still needs to highlight all matches when a line contains more than one.
